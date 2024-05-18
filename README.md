@@ -1,5 +1,7 @@
 # MSI H110M Pro D
 
+![Logo](https://github.com/x0u1/MSI-H110-PRO-D-Opencore-Hackintosh/assets/170177748/d00e8ef6-14f2-4230-81b4-86894c625b7b)
+
 
 # Specs:
 
