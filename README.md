@@ -1,4 +1,4 @@
-# MSI H110M Pro D
+# MSI H110M Pro D OpenCore Hackintosh
 
 ![Logo](https://github.com/x0u1/MSI-H110-PRO-D-Opencore-Hackintosh/assets/170177748/d00e8ef6-14f2-4230-81b4-86894c625b7b)
 
@@ -22,12 +22,15 @@
 ## Making the Bootable USB
 
 ### From macOS:
-[**Link to Apple's Guide**](https://support.apple.com/en-us/HT201372)
+[**Link to Apple's Guide**](https://support.apple.com/en-us/101578)
 
 
 1. Connect a >=16 GB pendrive.
 2. Open *Disk Utility* and Erase the USB with the name: *MyVolume*.
 3. Open *Terminal* and use the proper commands for your macOS installer:
+
+- Sonoma: `sudo /Applications/Install\ macOS\ Sonoma.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume`
+- Ventura: `sudo /Applications/Install\ macOS\ Ventura.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume`
 - Monterey: `sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume`
 - Big Sur: `sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume`
 - Catalina: `sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume`
