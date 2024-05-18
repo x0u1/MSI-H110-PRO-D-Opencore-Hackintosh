@@ -10,7 +10,7 @@
 |               Motherboard | MSI H110M Pro D                               |
 |             CPU | Intel Xeon E3-1220 v5                           |
 |               GPU | AMD Radeon RX 580            |
-|               SSD |  CRUCIAL BX500 CT120BX500SSD1 120Gb                         |
+|               SSD |  Samsung 870 EVO                         |
 |        Network | Realtek RTL8111H  |
 
 
